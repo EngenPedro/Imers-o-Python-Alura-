@@ -18,6 +18,8 @@ A segunda aula foi um mergulho mais profundo, onde aprendi a usar funções como
 
 A terceira aula focou na manipulação de dados com Pandas, transformando a planilha de ações com funções do Pandas e criando gráficos com a biblioteca Plotly Express. Também integrei o ChatGPT durante o desenvolvimento do código.
 
+![05](https://github.com/EngenPedro/Imersao-Python-Alura/assets/150570996/187d720f-ae55-4c5b-a40a-2cefd1652af0)
+
 ## Aula 4: Avançando nas Análises de Ações e Gráficos de Velas 🕯️
 
 Na quarta aula, avancei na análise de dados, com foco na criação de gráficos de vela (Candlestick) para entender a variação de preço que cada ticker teve durante um intervalo de tempo. Aprendi a fazer gráficos interativos usando a biblioteca Plotly e fui apresentado à "API mágica" mplfinance, uma API para Python que facilita a visualização e análise de dados financeiros usando a biblioteca matplotlib.
